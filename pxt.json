@@ -1,5 +1,6 @@
 {
     "name": "Torneo de los 3 magos",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
